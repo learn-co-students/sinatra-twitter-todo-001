@@ -59,3 +59,5 @@ In other words, what this test is expecting is that all of our code, from start 
 * [ERB Templates with Sinatra](http://www.sinatrarb.com/intro.html#Views%20/%20Templates)
 * [Rack Middleware](http://www.sinatrarb.com/intro.html#Rack%20Middleware)
 * [Rack::Test Module in Sinatra](http://www.sinatrarb.com/intro.html#Testing)
+
+<a href='https://learn.co/lessons/sinatra-twitter-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
