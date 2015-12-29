@@ -35,7 +35,7 @@ Go through these files sequentially and follow the comments:
 4. `views/tweets.erb`
 5. `config.ru`
 
-Run `bundle` and then `rackup`. Then go to `http://localhost:9292` to see the tweets! Play around with getting tweets for other search queries, or, tweet @flatironschool and see your tweet! If you make any changes to the code, you'll need to restart the server and `rackup` again.
+Run `bundle install` and then `rackup`. Then go to `http://localhost:9292` to see the tweets! Play around with getting tweets for other search queries, or, tweet @flatironschool and see your tweet! If you make any changes to the code, you'll need to restart the server and `rackup` again.
 
 ## Specs
 
