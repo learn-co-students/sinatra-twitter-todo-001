@@ -13,6 +13,7 @@ gem 'twitter'
 
 group :test do
   gem 'rspec'
+  gem 'learn-co'
   gem 'capybara'
   gem 'rack-test'
 end
