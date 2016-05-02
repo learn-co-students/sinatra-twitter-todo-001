@@ -61,3 +61,4 @@ In other words, what this test is expecting is that all of our code, from start 
 * [Rack::Test Module in Sinatra](http://www.sinatrarb.com/intro.html#Testing)
 
 <a href='https://learn.co/lessons/sinatra-twitter-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
+Hal Fields read this file!
